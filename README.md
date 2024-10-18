@@ -5,7 +5,6 @@ This project contains a simple Solidity smart contract called `SimpleStorage` th
 # FEATURES
 
 - **Storage of a number**: Stores a `favoriteNumber` of type `uint256`.
-- **Public getter**: Provides a public function to retrieve the stored number.
 
 # GETTING STARTED
 
